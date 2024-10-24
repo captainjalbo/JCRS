@@ -59,3 +59,9 @@ The attestation schema used in this contract includes the following fields:
 ```bash
 git clone https://github.com/your-repository/logistics-contract.git
 cd logistics-contract
+
+
+## Citation
+
+
+Balfaqih, M.; Balfagih, Z.; Lytras, M.D.; Alfawaz, K.M.; Alshdadi, A.A.; Alsolami, E. A Blockchain-Enabled IoT Logistics System for Efficient Tracking and Management of High-Price Shipments: A Resilient, Scalable and Sustainable Approach to Smart Cities. Sustainability 2023, 15, 13971. https://doi.org/10.3390/su151813971
