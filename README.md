@@ -54,12 +54,6 @@ The attestation schema used in this contract includes the following fields:
 - `paymentConfirmed` (bool): Indicates if payment has been confirmed.
 - `paymentAmount` (int256): Amount paid for the logistics service.
 
-## Setup and Deployment
-
-```bash
-git clone https://github.com/your-repository/logistics-contract.git
-cd logistics-contract
-```
 
 ## Citation
 
