@@ -59,7 +59,7 @@ The attestation schema used in this contract includes the following fields:
 ```bash
 git clone https://github.com/your-repository/logistics-contract.git
 cd logistics-contract
-
+```
 
 ## Citation
 
